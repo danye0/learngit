@@ -1,3 +1,3 @@
 git is a distributed version  control system.
 git is a free product.
-track changes.
+track changes of file.
